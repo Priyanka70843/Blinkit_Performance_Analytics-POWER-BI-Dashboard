@@ -19,7 +19,12 @@ This project provides a comprehensive analysis of Blinkit's sales performance, c
 
 
 ---
+## By deploying this project,it:
+> Reduces reporting time from hours to seconds.
+> Identifies underperforming outlets immediately so managers can take action. 
+>Ensures a stable supply of high-demand items, improving customer satisfaction.
 
+---
 ## 💡 Key Insights & Analysis
 * **Total Revenue:** Generated $1.20M in total sales across all outlet tiers.
 * **Customer Feedback:** Maintained a strong average rating of 3.9/5.0.
