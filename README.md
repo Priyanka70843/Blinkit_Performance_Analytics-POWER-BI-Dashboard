@@ -6,8 +6,17 @@ This project provides a comprehensive analysis of Blinkit's sales performance, c
 ---
 
 ## 📸 Dashboard Preview
-![Main Dashboard Display](<img width="1775" height="983" alt="Sales_by_Outlet_Analysis png" src="https://github.com/user-attachments/assets/ee6431f6-16b4-4af8-8bae-3c46e1bc7b2e" />
-.png)
+<img width="1919" height="977" alt="Blinkit_Overview_Dashboard jpg" src="https://github.com/user-attachments/assets/33c968a2-c6ce-4a35-b42d-2bf86c8e72c8" />
+
+<img width="1775" height="983" alt="Sales_by_Outlet_Analysis png" src="https://github.com/user-attachments/assets/ee6431f6-16b4-4af8-8bae-3c46e1bc7b2e" />
+
+<img width="1573" height="868" alt="KPI_Performance_Summary png" src="https://github.com/user-attachments/assets/62164cb9-eeac-4626-9df0-2d8c65bad828" />
+
+<img width="1406" height="914" alt="Item_Fat_Content_Comparison png" src="https://github.com/user-attachments/assets/dd5c26f1-d9e0-49be-ac4c-36d4f4a7ef56" />
+
+<img width="1419" height="893" alt="Contest_Engagement_Metrics png" src="https://github.com/user-attachments/assets/9dc85695-01fa-458c-ae65-0be08eb98da8" />
+
+
 
 ---
 
